@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "OlapPractica1", "OlapPractica1\OlapPractica1.dwproj", "{0E10CBF5-9C22-4CCC-8619-44A0ACD95386}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "OlapPractica2", "OlapPractica2\OlapPractica2.dwproj", "{6257DFF2-9EC1-4C79-89C4-375521A4F56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E10CBF5-9C22-4CCC-8619-44A0ACD95386}.Development|Default.ActiveCfg = Development
+		{0E10CBF5-9C22-4CCC-8619-44A0ACD95386}.Development|Default.Build.0 = Development
+		{0E10CBF5-9C22-4CCC-8619-44A0ACD95386}.Development|Default.Deploy.0 = Development
+		{6257DFF2-9EC1-4C79-89C4-375521A4F56C}.Development|Default.ActiveCfg = Development
+		{6257DFF2-9EC1-4C79-89C4-375521A4F56C}.Development|Default.Build.0 = Development
+		{6257DFF2-9EC1-4C79-89C4-375521A4F56C}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77821617-55B6-4B8A-BDD7-8769A180097F}
+	EndGlobalSection
+EndGlobal
